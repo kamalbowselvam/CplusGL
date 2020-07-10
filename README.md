@@ -11,7 +11,7 @@ CplusGL is a simple demo to setup OpenGL on Mac OS X.
   
 ## Build Project 
   ```shell
-    mkdir <<folder name>>
-    cd <<folder name>>
-    cmake <<location of CplusGL folder>>
+    mkdir buildcplusgl
+    cd buildcplusgl
+    cmake ../CplusGL
     cmake --build .```
